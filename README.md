@@ -1,8 +1,8 @@
 # Clientes-back-end
-clientes back-end em spring boot e java
+Usuarios back-end em spring boot e java
 
 ## Overview
-Esse repositório é o back-end da aplicação de cadastro de clientes -> https://github.com/David-S07/ClientesCad/tree/master/clientes-front
+Esse repositório é o back-end da aplicação de cadastro de clientes -> https://github.com/David-S07/FakeJiraFront
 
 ## Guidelines
 
