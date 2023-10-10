@@ -1,0 +1,11 @@
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\config\InternacionalizacaoConfig.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\rest\exception\ApiErrors.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\rest\controller\ClienteController.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\model\entity\Servico.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\model\repository\ClienteRepository.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\ClientesAplication.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\service\ClienteService.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\model\repository\ServicoRepository.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\model\entity\Cliente.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\rest\controller\ApplicattionControllerAdvice.java
+C:\Dev\Consisa\Clientes-back-end\src\main\java\br\com\clientes\rest\exception\ClienteCadastradoException.java
